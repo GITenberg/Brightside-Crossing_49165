@@ -1,4 +1,8 @@
 _repo: Brightside-Crossing_49165
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49165-h/images/cover.jpg
 creator:
   author:
     agent_name: Nourse, Alan Edward
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25579
     wikipedia: http://en.wikipedia.org/wiki/Alan_E._Nourse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49165#Brightside-Crossing
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-06-07'
 gutenberg_type: Text
